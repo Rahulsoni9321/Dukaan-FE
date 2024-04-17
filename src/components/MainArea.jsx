@@ -24,6 +24,8 @@ const MainArea = () => {
         <button className='text-xs rounded-xl px-3 py-1 text-white bg-[#146eb4]'>Refunds (8)</button>
       </div>
       <Transaction></Transaction>
+      <div className='text-center flex justify-center gap-2'>Made with ❤️ by <a href='https://twitter.com/SoniRahul3108' className='uderline underline-offset-1 text-cyan-800'>@SoniRahul3108</a></div>
+
     </div>
   )
 }
